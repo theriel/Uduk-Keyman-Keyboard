@@ -1,0 +1,17 @@
+﻿c This keyboard is designed for Uduk in Keyman mobile
+c Uduk.KMN, by Don Killian (don.killian@gmail.com)
+
+store(&version) '15.0'
+store(&NAME) 'Official Uduk Keyboard'
+store(&COPYRIGHT) '© 2025 Don Killian'
+store(&BITMAP) 'uduk.ico'
+store(&TARGETS) 'iphone ipad androidphone androidtablet mobile tablet'
+store(&LAYOUTFILE) 'uduk.keyman-touch-layout'
+
+group(main) using keys
+store(&VISUALKEYBOARD) 'uduk.kvks'
+
+begin Unicode > use(main)
+
+
+
