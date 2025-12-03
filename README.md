@@ -3,7 +3,7 @@ Uduk keyboard
 
 Description
 -----------
-Uduk official keyboard
+Uduk keyboard, beta version.
 
 Links
 -----
@@ -26,4 +26,5 @@ Supported Platforms
  * Mobile devices
  * Desktop devices
  * Tablet devices
+
 
