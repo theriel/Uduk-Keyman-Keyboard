@@ -1,30 +1,23 @@
-Uduk keyboard
-==============
+UdukBeta lexical model
+===================
 
 Description
 -----------
-Uduk keyboard, beta version.
+A beta version of the Uduk Bible and dictionary combined. Weights will still need adjusting, and no proper names have been removed.
 
 Links
 -----
-Keyboard Homepage: (not working yet) https://keyman.com/keyboards/uduk
 
 Copyright
 ---------
 See [LICENSE.md](LICENSE.md)
 
-Eventual Supported Platforms (currently Android and iPhone/iPad)
+Supported Platforms
 -------------------
- * Windows
- * macOS
- * Linux
- * Web
  * iPhone
  * iPad
  * Android phone
  * Android tablet
  * Mobile devices
- * Desktop devices
  * Tablet devices
-
 
