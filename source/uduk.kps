@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package>
   <System>
-    <KeymanDeveloperVersion>18.0.235.0</KeymanDeveloperVersion>
+    <KeymanDeveloperVersion>18.0.236.0</KeymanDeveloperVersion>
     <FileVersion>7.0</FileVersion>
   </System>
   <Options>
@@ -10,7 +10,6 @@
     <LicenseFile>..\LICENSE.md</LicenseFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
-    <FollowKeyboardVersion/>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -20,8 +19,8 @@
     <Name URL="">Uduk</Name>
     <Copyright URL="">Copyright © Don Killian</Copyright>
     <Author URL="mailto:don.killian@gmail.com">Don Killian</Author>
-    <Description URL="">Uduk official keyboard</Description>
-    <Version URL=""></Version>
+    <Description URL="">Uduk keyboard</Description>
+    <Version URL="1.0">1.0.0</Version>
   </Info>
   <Files>
     <File>
@@ -35,12 +34,6 @@
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.js</FileType>
-    </File>
-    <File>
-      <Name>..\build\uduk.kvk</Name>
-      <Description></Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.kvk</FileType>
     </File>
     <File>
       <Name>welcome.htm</Name>

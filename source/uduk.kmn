@@ -9,7 +9,6 @@ store(&TARGETS) 'iphone ipad androidphone androidtablet mobile tablet'
 store(&LAYOUTFILE) 'uduk.keyman-touch-layout'
 
 group(main) using keys
-store(&VISUALKEYBOARD) 'uduk.kvks'
 
 begin Unicode > use(main)
 
