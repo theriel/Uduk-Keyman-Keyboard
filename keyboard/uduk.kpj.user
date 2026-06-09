@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>0</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\uduk.kpj</path>
+    <file ID="id_5f56e582aedca83228c550f215538429" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8cc57b2025653a19d0e82b81d8f1903f</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\uduk.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a9eb931a63abc7f089d30f542a5e7b30</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\uduk.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_dfc7a02decfa5d514e6f8c29752554c0</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\don.udu.udukbeta.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-7|   |0</CodeFont>
+        <CharFont>Consolas|-7|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_c30ac43d65288490cef9df9398cf956c</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\don.udu.udukbeta.model.ts</FullPath>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\readme.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_fd6d86110b58bed2893281431fca26be</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\uduk.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ab77fde3274a879ffe8770d6f320c1aa</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\uduk.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5f56e582aedca83228c550f215538429</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\uduk.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+        <DisplayMapFont>Consolas|-7|   |0</DisplayMapFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_92def18ca8635f63bbb99767a4612fca</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\uduk.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ee2a4cfd4ec9a1d0b108952caf37521f</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\uduk.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_583d8d82d8ef2b584d65b1ad0b5c74d9</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\uduk.ts</FullPath>
+      <Debug>False</Debug>
+      <TestKeyboard></TestKeyboard>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_89f63b613fd4156e39e15a1786b03708</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\wordlist.tsv</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ea02d418d8e892d0d221bb4b766be689</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\..\build\don.udu.udukbeta.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\..\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_274cb145a2fa741a8f11c88cd5d1c46d</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\..\build\uduk.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1bec31db3386eee24272d4756bdf157e</ID>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\..\build\uduk.js</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>uduk.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\uduk.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>don.udu.udukbeta.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\don.udu.udukbeta.model.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>uduk.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\therk\Dropbox\Dissertation\Uduk Orthography\Projects\uduk\source\uduk.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
