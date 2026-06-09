@@ -13,7 +13,7 @@ Copyright
 ---------
 See [LICENSE.md](LICENSE.md)
 
-Supported Platforms
+Eventual Supported Platforms (currently Android and iPhone/iPad)
 -------------------
  * Windows
  * macOS
