@@ -7,7 +7,7 @@ Uduk keyboard, beta version.
 
 Links
 -----
-Keyboard Homepage: https://keyman.com/keyboards/uduk
+Keyboard Homepage: (not working yet) https://keyman.com/keyboards/uduk
 
 Copyright
 ---------
