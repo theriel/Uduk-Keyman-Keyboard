@@ -7,15 +7,15 @@ DESCRIPTION This is the Keyman edition of the Uduk keyboard. It's based on the s
 
 Links
 -----
-Keyboard Homepage: https://keyman.com/keyboards/uduk
+Keyboard Homepage (not working yet): https://keyman.com/keyboards/uduk
 
 Copyright (c) Don Killian
 ---------
 See [LICENSE.md](LICENSE.md)
 
-Supported Platforms
+Supported Platforms (currently only Android and iPhone/iPad)
 -------------------
-  * iPhone
+ * iPhone
  * iPad
  * Android phone
  * Android tablet
